@@ -34,7 +34,7 @@
 
 🕹️ **TuBoliranaDigital**  
 Un juego físico-digital en desarrollo que combina precisión y azar.  
-🔗 [Página web alojada](http://44.202.136.229/)
+🔗 [Página web alojada](https://jorgegomez93.github.io/)
 
 ---
 
